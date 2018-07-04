@@ -1,0 +1,21 @@
+label {
+  text-align: right;
+  padding-right: 2%;
+}
+h1 {
+  margin: auto;
+}
+.top {
+  background: #4281e5;
+  text-align: center;
+  padding-bottom: 1%;
+}
+.container {
+  background: white;
+  border-radius: .5%;
+  margin-top: 2%;
+  padding-top: 2%;
+}
+div.form-check {
+  text-align: left;
+}
